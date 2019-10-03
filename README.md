@@ -20,6 +20,9 @@ Orange Juise.
 JusrasikPark.
 7. What is your favorite movie?
 Avengers End Game.
+8. What is the color of the sky?
+Blue
+
 ### Advanced Content:
 
 From your fork, make a new branch.
